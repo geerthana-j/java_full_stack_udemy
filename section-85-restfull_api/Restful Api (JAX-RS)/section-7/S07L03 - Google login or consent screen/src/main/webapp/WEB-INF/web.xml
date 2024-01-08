@@ -1,0 +1,37 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Success</servlet-name>
+  	<display-name>Success</display-name>
+  	<description></description>
+  	<servlet-class>org.studyeasy.Success</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>RedirectURI</servlet-name>
+  	<display-name>RedirectURI</display-name>
+  	<description></description>
+  	<servlet-class>org.studyeasy.RedirectURI</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>RedirectURIServlet</servlet-name>
+  	<display-name>RedirectURIServlet</display-name>
+  	<description></description>
+  	<servlet-class>org.studyeasy.RedirectURIServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Success</servlet-name>
+  	<url-pattern>/success</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>RedirectURI</servlet-name>
+  	<url-pattern>/redirectURI</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>RedirectURIServlet</servlet-name>
+  	<url-pattern>/redirectURI</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "org.studyeasy.Demo",
+            "projectName": "org.srudyeasy-JunitDemos"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "org.studyeasy.Sample",
+            "projectName": "org.studyeasy-HelloWorldMaven"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "org.studyeasy.App",
+            "projectName": "org.studyeasy-Hibernate"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "org.studyeasy-S01L02-SpringDemo"
+        },
+        {
+            "type": "java",
+            "name": "SpringRestdemoApplication",
+            "request": "launch",
+            "mainClass": "org.studyeasy.SpringRestdemo.SpringRestdemoApplication",
+            "projectName": "org.studyeasy-SpringRestdemo"
+        },
+        {
+            "type": "java",
+            "name": "SpringBlogApplication",
+            "request": "launch",
+            "mainClass": "org.studyeasy.SpringBlog.SpringBlogApplication",
+            "projectName": "org.studyeasy-SpringStarter"
+        },
+        {
+            "type": "java",
+            "name": "TestFormat",
+            "request": "launch",
+            "mainClass": "org.studyeasy.TestFormat",
+            "projectName": "org.studyeasy-section-05"
+        }
+    ]
+}

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/org/studyeasy/MathFunctionsTest.java" line="41" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39c72143-a6b4-446b-8749-a6b11f24a57d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/S02L08___AssertAll$MathFunctionsTest_repeatMe__1_.ic" NAME="MathFunctionsTest.repeatMe (1) Coverage Results" MODIFIED="1553111514322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.studyeasy.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="175" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/studyeasy/MathFunctionsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/studyeasy/MathFunctionsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JunitDemos" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JunitDemos" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="S02L08 - AssertAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S02L15 - Repeatition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="S02L08 - AssertAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S02L15 - Repeatition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="S02L08 - AssertAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S02L15 - Repeatition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="S02L08 - AssertAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S02L15 - Repeatition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="S02L08 - AssertAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S02L15 - Repeatition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="studyeasy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553166589129" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.org.studyeasy in S02L08 - AssertAll">
+    <configuration name="MathFunctionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S02L08 - AssertAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.studyeasy" />
+      <option name="MAIN_CLASS_NAME" value="org.studyeasy.MathFunctionsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFunctionsTest.repeatMe (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S02L08 - AssertAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.studyeasy" />
+      <option name="MAIN_CLASS_NAME" value="org.studyeasy.MathFunctionsTest" />
+      <option name="METHOD_NAME" value="repeatMe(org.junit.jupiter.api.RepetitionInfo)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFunctionsTest.testAdd [5]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true" repeat_count="5" repeat_mode="N Times">
+      <module name="S02L08 - AssertAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.studyeasy" />
+      <option name="MAIN_CLASS_NAME" value="org.studyeasy.MathFunctionsTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <tag value="runIt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFunctionsTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S02L08 - AssertAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.studyeasy" />
+      <option name="MAIN_CLASS_NAME" value="org.studyeasy.MathFunctionsTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.studyeasy in S02L08 - AssertAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true" repeat_count="8">
+      <module name="S02L08 - AssertAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.studyeasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.studyeasy" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MathFunctionsTest" />
+      <item itemvalue="JUnit.MathFunctionsTest.testAdd" />
+      <item itemvalue="JUnit.MathFunctionsTest.testAdd [5]" />
+      <item itemvalue="JUnit.org.studyeasy in S02L08 - AssertAll" />
+      <item itemvalue="JUnit.MathFunctionsTest.repeatMe (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.studyeasy in S02L08 - AssertAll" />
+        <item itemvalue="JUnit.MathFunctionsTest" />
+        <item itemvalue="JUnit.MathFunctionsTest.repeatMe (1)" />
+        <item itemvalue="JUnit.MathFunctionsTest.testAdd [5]" />
+        <item itemvalue="JUnit.MathFunctionsTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c72143-a6b4-446b-8749-a6b11f24a57d" name="Default Changelist" comment="" />
+      <created>1553083532600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553083532600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MathFunctionsTest_repeatMe_(1) - 2019.03.21 at 01h 25m 26s.xml">
+      <configuration name="MathFunctionsTest.repeatMe (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe_(1) - 2019.03.21 at 01h 25m 39s.xml">
+      <configuration name="MathFunctionsTest.repeatMe (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest - 2019.03.21 at 13h 14m 41s.xml">
+      <configuration name="MathFunctionsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe - 2019.03.21 at 13h 15m 11s.xml">
+      <configuration name="MathFunctionsTest.repeatMe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe - 2019.03.21 at 13h 20m 00s.xml">
+      <configuration name="MathFunctionsTest.repeatMe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe - 2019.03.21 at 13h 20m 52s.xml">
+      <configuration name="MathFunctionsTest.repeatMe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest - 2019.03.21 at 13h 22m 09s.xml">
+      <configuration name="MathFunctionsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe - 2019.03.21 at 13h 24m 03s.xml">
+      <configuration name="MathFunctionsTest.repeatMe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathFunctionsTest_repeatMe_[8] - 2019.03.21 at 13h 24m 57s.xml">
+      <configuration name="MathFunctionsTest.repeatMe [8]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_studyeasy_in_S02L08_-_AssertAll - 2019.03.21 at 13h 28m 49s.xml">
+      <configuration name="org.studyeasy in S02L08 - AssertAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2574899" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50040483" side_tool="true" weight="0.38039866" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" weight="0.38039866" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890365" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32955465" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2574899" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50040483" side_tool="true" weight="0.38039866" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49959514" visible="true" weight="0.38039866" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890365" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/studyeasy/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/studyeasy/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0-sources.jar!/org/junit/jupiter/engine/extension/RepetitionInfoParameterResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1885#1886#0" expanded="true" />
+            <element signature="e#1923#1924#0" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0-sources.jar!/org/junit/platform/engine/support/hierarchical/ThrowableCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0-sources.jar!/org/junit/jupiter/engine/descriptor/TestMethodTestDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0-sources.jar!/org/junit/jupiter/engine/execution/ExecutableInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="627" selection-start-line="627" selection-end-line="627" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/studyeasy/MathFunctionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>S02L08 - AssertAll</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

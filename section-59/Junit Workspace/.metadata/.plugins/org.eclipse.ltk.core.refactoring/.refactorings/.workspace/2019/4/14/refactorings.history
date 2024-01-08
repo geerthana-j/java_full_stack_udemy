@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;S02L05 - Assertion for exception&apos; to &apos;xxS02L05 - Assertion for exception&apos;" description="Rename resource &apos;S02L05 - Assertion for exception&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/S02L05 - Assertion for exception" name="xxS02L05 - Assertion for exception" stamp="1554216073089" updateReferences="true"/>
+</session>
